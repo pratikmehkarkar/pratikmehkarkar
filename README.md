@@ -24,3 +24,5 @@
 <a href="https://bitbucket.org/pratik_mehkarkar/" target="_blank"><img alt="BitBucket" src="https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white" />
 <a href="https://www.discord.com/" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 <a href="https://www.instagram.com/pratik_mehkarkar/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+
+![](https://komarev.com/ghpvc/?username=pratikmehkarkar&color=green&style=flat-square&label=PROFILE+VIEWS)
