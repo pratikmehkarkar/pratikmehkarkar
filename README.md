@@ -14,6 +14,12 @@
 <img width="30px" alt="CPP" src="https://user-images.githubusercontent.com/36140849/97773342-102eeb80-1b0c-11eb-978a-05965267a12b.png" /><img width="30px" alt="JS" src="https://user-images.githubusercontent.com/36140849/97772525-651b3380-1b05-11eb-8694-d3f6afba9dbf.png" />
 <img width="30px" alt="MySQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
+### Familiar with
+<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> <img alt="iOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" /> <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> 
+
+### App Store
+<a href="https://play.google.com/store/apps/dev?id=8345885293340683167&hl=en" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /> 
+
 ### Connect with me
 
 <a href="https://github.com/pratikmehkarkar" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /> 
