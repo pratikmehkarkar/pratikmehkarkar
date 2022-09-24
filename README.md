@@ -2,7 +2,7 @@
 ### You stumbled across my profile! Welcome
 
 #### About me 
-👨‍💻 : I'm a Mobile & Web Application developer who loves to learn, create, and explore. I'm always open and seeking out opportunities to participate in any impactful causes in the Tech community, so feel free to reach out!
+👨‍💻 : I'm a Mobile Application developer who loves to learn, create, and explore. I'm always open and seeking out opportunities to participate in any impactful causes in the Tech community, so feel free to reach out!
 
 👨🏻‍🎓 : MS - Computer Science, B.Tech - Information Technology 
 
